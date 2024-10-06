@@ -1212,8 +1212,8 @@ aðýtçý
 aðýtçýlýk, -ðý
 aðýtlama
 aðýtsal
-			  
-			  aðýz
+	 
+	 aðýz
 aðýz, -ðzý (organ)
 aðýz aðýza
 aðýz alýþkanlýðý
@@ -2428,8 +2428,8 @@ aletli
 aletli jimnastik, -ði
 aletsiz
 alev
-			  
-			  alev alev
+	 
+	 alev alev
 Alevi
 Alevilik, -ði
 alev kýrmýzýsý
@@ -3644,8 +3644,8 @@ antikatot, -du
 Antik Çað
 antikite
 antikomünist
-			  
-			  antikomünistlik, -ði
+	 
+	 antikomünistlik, -ði
 antikomünizm
 antikor
 antilop, -bu
@@ -4860,8 +4860,8 @@ aþhane
 aþý
 aþý boyalý
 aþý boyasý
-			  
-			  aþýcý
+	 
+	 aþýcý
 aþýcýlýk, -ðý
 aþýk, -ðý
 âþýk, -ký, -ðý (tutkun)
@@ -6076,10 +6076,10 @@ azotölçer
 Azrail
 az sonra
 azvay
-		 
 
-<tr>
-			   b, B
+
+
+	  b, B
 B
 Ba
 baba
@@ -7314,8 +7314,8 @@ basketçi
 basketçilik, -ði
 baský
 baskýcý
-			  
-			  baskýcýlýk, -ðý
+	 
+	 baskýcýlýk, -ðý
 baský grubu
 baský kalýbý
 baskýlama
@@ -8550,8 +8550,8 @@ bence
 benci
 bencil
 bencilce
-			  
-			  bencilcesine
+	 
+	 bencilcesine
 bencileyin
 bencilik, -ði
 bencilleþebilme
@@ -9786,8 +9786,8 @@ binici
 binicilik, -ði
 binilme
 binilmek
-			  
-			  bininci
+	 
+	 bininci
 biniþ
 biniþme
 biniþmek
@@ -11022,8 +11022,8 @@ bozkýrlý
 bozkýr tavuðu
 bozkurt, -du
 Bozkurt, -t’u (ilçe)
-			  
-			  bozlak, -ðý
+	 
+	 bozlak, -ðý
 bozlama
 bozlamak
 bozma
@@ -12257,10 +12257,7 @@ büzüþük
 büzüþüklük, -ðü
 büzüþüverme
 büzüþüvermek
-		 
-
-<tr>
-			   c, C
+c, C
 C
 Ca
 caba
@@ -13125,8 +13122,8 @@ ciðer taptapasý
 ciðer yarasý
 cihan
 Cihanbeyli
-			  
-			  cihangir
+	 
+	 cihangir
 cihangirane
 cihangirlik, -ði
 cihannüma
@@ -13991,8 +13988,8 @@ cüzzamlý
 çanakçýk, -ðý
 çanakçýlýk, -ðý
 çanak çömlek, -ði
-			  
-			  Çanakkale
+	 
+	 Çanakkale
 Çanakkaleli
 Çanakkalelilik, -ði
 çanaklýk, -ðý
@@ -14857,8 +14854,8 @@ cüzzamlý
 çene kavafý
 çenekli
 çeneksiz
-			  
-			  çeneleþme
+	 
+	 çeneleþme
 çeneleþmek
 çeneli
 çenelilik, -ði
@@ -15723,8 +15720,8 @@ cüzzamlý
 çim çim
 çimdik, -ði
 çimdikleme
-			  
-			  çimdiklemek
+	 
+	 çimdiklemek
 çimdiklenme
 çimdiklenmek
 çimdirme
@@ -16585,10 +16582,7 @@ cüzzamlý
 çürüyüverme
 çürüyüvermek
 çüþ
-		 
-
-<tr>
-			   d, D
+d, D
 D
 da / de
 Dadacý
@@ -17606,8 +17600,8 @@ deðini
 deðinilebilme
 deðinilebilmek
 deðiniliþ
-			  
-			  deðinilme
+	 
+	 deðinilme
 deðinilmek
 deðiniþ
 deðiniverme
@@ -18625,8 +18619,8 @@ destekleyebilmek
 destekleyici
 destekleyicilik, -ði
 destekleyiþ
-			  
-			  destekli
+	 
+	 destekli
 destekli bütçe
 desteklilik, -ði
 destek oyun
@@ -19644,8 +19638,8 @@ dirhem
 dirhem dirhem
 diri
 dirice
-			  
-			  diri diri
+	 
+	 diri diri
 dirið
 diriksel
 diriksel ýsý
@@ -20663,8 +20657,8 @@ döküverme
 döküvermek
 döl
 döl ayý
-			  
-			  döl döþ
+	 
+	 döl döþ
 dölek
 döl eþi
 döl kesesi
@@ -21680,9 +21674,8 @@ düzüm düzüm
 düz ünlü
 düz yazý
 Dy
-		 
-<tr>
-			   e, E
+
+e, E
 e
 ebabil
 ebat, -dý
@@ -22226,8 +22219,8 @@ ekleþtirme
 ekleþtirmek
 ekletebilme
 ekletebilmek
-			  
-			  ekletme
+	 
+	 ekletme
 ekletmek
 ekleyebilme
 ekleyebilmek
@@ -22771,8 +22764,8 @@ el telefonu
 el telsizi
 elti
 eltieltiyeküstü
-			  
-			  eltilik, -ði
+	 
+	 eltilik, -ði
 el topu
 el ulaðý
 el ulaklýðý
@@ -23316,8 +23309,8 @@ erinme
 erinmek
 erirlik, -ði
 eristik, -ði
-			  
-			  eriþ
+	 
+	 eriþ
 eriþebilme
 eriþebilmek
 eriþilebilir gizil güç, -cü
@@ -23861,8 +23854,8 @@ eþli
 eþlik, -ði
 eþlilik, -ði
 eþme
-			  
-			  Eþme (ilçe)
+	 
+	 Eþme (ilçe)
 eþmek, -er
 eþ merkezli
 eþ merkezlilik, -ði
@@ -24405,10 +24398,8 @@ ezmek, -er
 ezofori
 ezogelin çorbasý
 ezoterik
-&nbsp;
-		 
-<tr>
-			   f, F
+
+f, F
 F
 fa
 faal
@@ -24714,8 +24705,8 @@ faydalanýlma
 faydalanýlmak
 faydalanýþ
 faydalanma
-			  
-			  faydalanmak
+	 
+	 faydalanmak
 faydalý
 faydalýlýk, -ðý
 faydasýz
@@ -25021,8 +25012,8 @@ fýçýlamak
 fýkdan
 fýkýh, -khý
 fýkýrdak
-			  
-			  fýkýrdaklýk, -ðý
+	 
+	 fýkýrdaklýk, -ðý
 fýkýrdama
 fýkýrdamak
 fýkýrdaþma
@@ -25328,8 +25319,8 @@ file bekçisi
 fil elmasý
 filenk, -gi
 filet
-			  
-			  fileto
+	 
+	 fileto
 fil faresi
 filgiller
 filhakika
@@ -25635,8 +25626,8 @@ folk sanatçýsý
 folluk, -ðu
 folyo
 folyo kâðýdý
-			  
-			  fon
+	 
+	 fon
 fonda
 fondan
 fondip
@@ -25940,9 +25931,9 @@ füzen
 füzesavar
 füzyometre
 füzyon
-		 
-<tr>
-			   g, G
+
+
+	  g, G
 Ga
 gabardin
 gabari
@@ -26579,8 +26570,8 @@ geçmez akçe
 geçmezlik, -ði
 geçmez not
 geçmiþ
-			  
-			  geçmiþi kandilli
+	 
+	 geçmiþi kandilli
 geçmiþi kýnalý
 geçmiþli
 geçmiþseverlik, -ði
@@ -27217,8 +27208,8 @@ gýcýrtýlý
 gýcýrtýsýz
 gýda
 gýdaklama
-			  
-			  gýdaklamak
+	 
+	 gýdaklamak
 gýdaklayýþ
 gýdalý
 gýda rejimi
@@ -27855,8 +27846,7 @@ gönlünce
 gönlü tok
 gönlü tokluk, -ðu
 gönlü yaralý
-			  
-			  gönlü yaralýlýk, -ðý
+gönlü yaralýlýk, -ðý
 gönlü zengin
 gönlü zenginlik, -ði
 gönül, -nlü
@@ -28493,8 +28483,7 @@ gusül, -slü
 gusülhane
 guþa
 gut
-			  
-			  guvernör
+guvernör
 gübre
 gübre böceði
 gübre gazý
@@ -29127,9 +29116,9 @@ güzlemek
 güzlük, -ðü
 güz noktasý
 güzün
-		 
-<tr>
-			   h, H
+
+
+	  h, H
 H
 ha
 Ha (kimyasal simge)
@@ -29702,8 +29691,8 @@ hamurlaþma
 hamurlaþmak
 hamursu
 hamursuz
-			  
-			  Hamursuz Bayramý
+	 
+	 Hamursuz Bayramý
 hamur tahtasý
 hamur tatlýsý
 hamur teknesi
@@ -30276,8 +30265,8 @@ hava bilgisi
 hava birliði
 hava boþaltma makinesi
 hava boþluðu
-			  
-			  havacý
+	 
+	 havacý
 havacýlýk, -ðý
 havacýva
 hava cýva
@@ -30850,8 +30839,8 @@ hepçil
 hepçillik, -ði
 heple hiç ilkesi
 hepsi
-			  
-			  hepten
+	 
+	 hepten
 hepyek
 her
 her bir
@@ -31424,8 +31413,8 @@ hipofiz
 hipoglisemi
 hipopotam
 hipopotamgiller
-			  
-			  hiposantýr
+	 
+	 hiposantýr
 hipostaz
 hipotansiyon
 hipotenüs
@@ -31994,9 +31983,8 @@ hüzünsüz
 hüzünsüzlük, -ðü
 hüzzam
 hüzzam beþlisi
-		 
-<tr>
-			   ý, I
+
+ý, I
 I
 ýcýðý cýcýðý
 Iðdýr
@@ -32649,8 +32637,8 @@ iç pilav
 iç plazma
 iç politika
 içre
-			  
-			  içrek
+	 
+	 içrek
 içreklik, -ði
 iç saha
 iç salgý
@@ -33303,8 +33291,8 @@ iletken
 iletken damarlar
 iletkenlik, -ði
 iletki
-			  
-			  iletme
+	 
+	 iletme
 iletmek
 ilga
 ilgeç, -ci
@@ -33957,8 +33945,7 @@ inkisarýhayal, -li
 inkiþaf
 inkübatör
 inleme
-			  
-			  inlemek
+inlemek
 inletme
 inletmek
 inleyebilme
@@ -34611,8 +34598,8 @@ istikrar
 istikrarlý
 istikrarlýca
 istikrarlýlýk, -ðý
-			  
-			  istikrarsýz
+	 
+	 istikrarsýz
 istikrarsýzca
 istikrarsýzlýk, -ðý
 istikraz
@@ -35261,9 +35248,7 @@ izzet
 izzetinefis, -fsi
 izzetüikbal, -li
 izzetüikram
-		 
-<tr>
-			   j, J
+j, J
 jaguar
 jakar
 jakarlý
@@ -35289,8 +35274,8 @@ janr
 jant
 Japon
 Japon armudu
-			  
-			  Japon balýðý
+	 
+	 Japon balýðý
 Japon bezi
 Japonca
 japone
@@ -35316,8 +35301,8 @@ jeloz
 jenerasyon
 jeneratör
 jenerik, -ði
-			  
-			  jenosit, -di
+	 
+	 jenosit, -di
 jeodezi
 jeodinamik, -ði
 jeofizik, -ði
@@ -35343,8 +35328,8 @@ jeotropizma
 jersey
 jest
 jet
-			  
-			  jet motoru
+	 
+	 jet motoru
 jeton
 jetoncu
 jetonculuk, -ðu
@@ -35370,8 +35355,8 @@ jips
 jiujitsu
 jiujitsucu
 joker
-			  
-			  jokey
+	 
+	 jokey
 jokeyli
 jokeylik, -ði
 jokeysiz
@@ -35397,9 +35382,7 @@ Jüpiter
 jüpon
 jüri
 jüt
-		 
-<tr>
-			   k, K
+k, K
 K
 kaba
 kababurun, -rnu
@@ -37186,8 +37169,8 @@ karaburçak, -ðý
 Karaburun
 Karabük, -k’ü
 Karabüklü
-			  
-			  Karabüklülük, -ðü
+	 
+	 Karabüklülük, -ðü
 karaca
 Karacabey
 karaca darýsý
@@ -38974,8 +38957,8 @@ kebzecilik, -ði
 keçe
 keçeci
 keçecilik, -ði
-			  
-			  keçeleme
+	 
+	 keçeleme
 keçelemek
 keçelenme
 keçelenmek
@@ -40762,8 +40745,8 @@ kil
 kildan
 kile
 kiler
-			  
-			  kilerci
+	 
+	 kilerci
 kilercilik, -ði
 kilermeni
 kilim
@@ -42550,8 +42533,8 @@ köprülenme
 köprülenmek
 köprülü
 köprü üstü
-			  
-			  köprü yol
+	 
+	 köprü yol
 köpük, -ðü
 köpükleniþ
 köpüklenme
@@ -44336,9 +44319,7 @@ kütürdetmek
 kütür kütür
 kütürtü
 küvet
-		 
-<tr>
-			   l, L
+l, L
 L
 la
 La (kimyasal simge)
@@ -44509,8 +44490,7 @@ lamekân takýmý
 lamel
 lamelif
 laminant
-			  
-			  laminarya
+laminarya
 lamise
 lan
 lanarkit
@@ -44681,8 +44661,8 @@ legallik, -ði
 legato
 legorn
 leðen
-			  
-			  leðençe
+	 
+	 leðençe
 leðen ibrik, -ði
 leh
 Leh (Polonya halkýndan olan)
@@ -44853,8 +44833,8 @@ liet, -di
 lif
 lifleme
 liflemek
-			  
-			  liflenme
+	 
+	 liflenme
 liflenmek
 lifleþme
 lifleþmek
@@ -45025,8 +45005,8 @@ loð
 loðlama
 loðlamak
 lohusa
-			  
-			  lohusa hummasý
+	 
+	 lohusa hummasý
 lohusalýk, -ðý
 lohusa otu
 lohusa þekeri
@@ -45193,9 +45173,7 @@ lüzumsuz adam
 lüzumsuzca
 lüzumsuzluk, -ðu
 lüzumsuz yere
-		 
-<tr>
-			   m, M
+m, M
 M
 maada
 maaile
@@ -46065,8 +46043,8 @@ marifetsiz
 marifetsizce
 marifetsizlik, -ði
 marihuana
-			  
-			  marina
+	 
+	 marina
 marinacý
 marinacýlýk, -ðý
 marinat, -dý
@@ -46936,8 +46914,8 @@ meridyen
 meridyen çemberi
 meridyen düzlemi
 Merih
-			  
-			  merinos
+	 
+	 merinos
 merinos koyunu
 meristem
 meritokrasi
@@ -47807,8 +47785,8 @@ mineralsiz
 minerolog, -ðu
 mineroloji
 minerolojik
-			  
-			  minesiz
+	 
+	 minesiz
 mini
 minibüs
 minibüsçü
@@ -48678,8 +48656,8 @@ mutedillik, -ði
 mutedil rüzgâr
 mutekit
 mutemet, -di
-			  
-			  mutemetlik, -ði
+	 
+	 mutemetlik, -ði
 mutena
 muteriz
 mutezile
@@ -49546,9 +49524,7 @@ müzminleþtirme
 müzminleþtirmek
 müzminlik, -ði
 Mv
-		 
-<tr>
-			   n, N
+n, N
 N
 Na
 naaþ
@@ -49781,8 +49757,8 @@ nane þekeri
 nanýaziz
 nanik, -ði
 nanikleme
-			  
-			  naniklemek
+	 
+	 naniklemek
 nankör
 nankörce
 nankörcesine
@@ -50015,8 +49991,8 @@ nefeslenmek
 nefesli
 nefeslik, -ði
 nefeslilik, -ði
-			  
-			  nefesli sazlar
+	 
+	 nefesli sazlar
 nefes nefese
 nefha
 nefir
@@ -50249,8 +50225,8 @@ Nevþehirlilik, -ði
 nevton
 Nevyunanilik, -ði
 nevzat, -dý
-			  
-			  ney
+	 
+	 ney
 neyçe
 neyse
 neyzen
@@ -50483,8 +50459,8 @@ niyetsizlik, -ði
 niyobyum
 niza
 nizam
-			  
-			  nizami
+	 
+	 nizami
 nizamilik, -ði
 nizamiye
 nizamiye kapýsý
@@ -50715,9 +50691,7 @@ nütasyon
 nüve
 nüzul, -lü
 nüzullü
-		 
-<tr>
-			   o
+o
 o, O
 O (kimyasal simge)
 o açýdan
@@ -51227,8 +51201,8 @@ omuzlu
 omuzluk, -ðu
 omuz omuza
 on
-			  
-			  ona
+	 
+	 ona
 ona buna
 onaltýlýk, -ðý
 onama
@@ -51738,8 +51712,8 @@ Osmanlý Türkçesi
 osmiyum
 osmiyumlu
 osteolog, -ðu
-			  
-			  osteoloji
+	 
+	 osteoloji
 osteolojik
 osteoporoz
 osurgan
@@ -52249,8 +52223,8 @@ ozuga
 öfkelilik, -ði
 öfkesi burnunda
 öfkesiz
-			  
-			  öfkesizlik, -ði
+	 
+	 öfkesizlik, -ði
 öge
 öglena
 öglenagiller
@@ -52760,8 +52734,8 @@ ozuga
 ördekbaþý
 ördekgagasý
 ördekgiller
-			  
-			  ördek yürüyüþü
+	 
+	 ördek yürüyüþü
 ördürme
 ördürmek
 örebilme
@@ -53270,9 +53244,7 @@ ozuga
 öz yaþam
 öz yaþam öyküsü
 öz yönetim
-		 
-<tr>
-			   p, P
+p, P
 P
 Pa
 pabuç, -cu
@@ -53763,8 +53735,8 @@ parlayývermek
 parmak, -ðý
 parmak adam
 parmak alfabesi
-			  
-			  parmak çocuk, -ðu
+	 
+	 parmak çocuk, -ðu
 parmak hesabý
 parmak izi
 parmaklama
@@ -54255,8 +54227,8 @@ pelerinli
 pelesenk, -gi
 pelesenk aðacý
 pelikan
-			  
-			  pelikangiller
+	 
+	 pelikangiller
 pelikansýlar
 pelikül
 pelin
@@ -54747,8 +54719,8 @@ pimpiriklenmek
 pimpirikli
 pimpiriklik, -ði
 pimpiriklilik, -ði
-			  
-			  pinekleme
+	 
+	 pinekleme
 pineklemek
 pinel
 pines
@@ -55239,8 +55211,8 @@ postiþ
 post kavgasý
 postlu
 postmatüre
-			  
-			  postmodern
+	 
+	 postmodern
 postmodernist
 postmodernizm
 postniþin
@@ -55728,9 +55700,7 @@ pütürlü
 pütür pütür
 pütürsüz
 pütürsüzlük, -ðü
-		 
-<tr>
-			   r, R
+r, R
 Ra
 Rab, -bb’i
 rabbani
@@ -55931,8 +55901,8 @@ randevusuz
 randýman
 randýmanlý
 randýmanlýlýk, -ðý
-			  
-			  randýmansýz
+	 
+	 randýmansýz
 randýmansýzlýk, -ðý
 rant
 rantabilite
@@ -56133,8 +56103,7 @@ reglan
 regresyon
 regülasyon
 regülatör
-			  
-			  reha
+reha
 rehabilitasyon
 rehabilite
 rehavet
@@ -56335,8 +56304,7 @@ revanicilik, -ði
 revani tatlýsý
 revanlaþma
 revanlaþmak
-			  
-			  reverans
+reverans
 revir
 reviþ
 revize
@@ -56537,8 +56505,8 @@ rölativist
 rölativite
 rölativizm
 röle
-			  
-			  rölöve
+	 
+	 rölöve
 rölyef
 rölyefli
 römork
@@ -56739,9 +56707,7 @@ rüzgârsýz
 rüzgârsýzlýk, -ðý
 rüzgârüstü
 rüzgâr yükü
-		 
-<tr>
-			   s, S
+s, S
 S
 saadet
 saadet asrý
@@ -58200,8 +58166,8 @@ sarsýntýsýz
 sarsýþ
 sarsma
 sarsmak, -ar
-			  
-			  Saruhanlý
+	 
+	 Saruhanlý
 sasý
 sasýma
 sasýmak
@@ -59660,8 +59626,8 @@ sýçrama tahtasý
 sýçratabilme
 sýçratabilmek
 sýçratma
-			  
-			  sýçratmak
+	 
+	 sýçratmak
 sýçrayabilme
 sýçrayabilmek
 sýçrayýcý
@@ -61120,8 +61086,8 @@ solungaçlý
 solunma
 solunmak
 solunum
-			  
-			  solunum aygýtý
+	 
+	 solunum aygýtý
 solunum sistemi
 solunum yetmezliði
 soluþ
@@ -62580,8 +62546,8 @@ sürme
 sürmedan
 sürme iskele
 sürmek, -er
-			  
-			  sürmeleme
+	 
+	 sürmeleme
 sürmelemek
 sürmelenme
 sürmelenmek
@@ -64039,11 +64005,7 @@ süzüþ
 þürekâ
 þüyu
 þvester
-		 
-
-
-<tr>
-			   t, T
+t, T
 T
 ta
 Ta (kimyasal simge)
@@ -65021,8 +64983,8 @@ tarýmcý
 tarýmcýlýk, -ðý
 tarým coðrafyasý
 tarýmsal
-			  
-			  tarif
+	 
+	 tarif
 tarife
 tarifeli
 tarifesiz
@@ -66000,8 +65962,8 @@ tekmelik, -ði
 tekmil
 tekmil haberi
 tekmilleme
-			  
-			  tekmillemek
+	 
+	 tekmillemek
 tekne
 tekneci
 teknecilik, -ði
@@ -66979,8 +66941,8 @@ tevettür
 tevfik
 tevfikan
 tevhit, -di
-			  
-			  tevhit ehli
+	 
+	 tevhit ehli
 tevil
 tevki
 tevkici
@@ -67958,8 +67920,8 @@ torba
 torbacýk, -ðý
 torba çay
 torbada keklik
-			  
-			  torba kadro
+	 
+	 torba kadro
 torbalama
 torbalamak
 torbalanma
@@ -68933,9 +68895,7 @@ tüzellik, -ði
 tüzük, -ðü
 tvist
 tvistçi
-		 
-<tr>
-			   u, U 
+u, U 
 U 
 u borusu 
 ubudiyet 
@@ -69244,8 +69204,8 @@ ulusçuluk, -ðu
 uluslararasý 
 uluslararasýcý 
 uluslararasýcýlýk, -ðý 
-			  
-			  uluslaþabilme 
+	 
+	 uluslaþabilme 
 uluslaþabilmek 
 uluslaþma 
 uluslaþmak 
@@ -69554,8 +69514,8 @@ uyarlamak
 uyarlanabilme 
 uyarlanabilmek 
 uyarlanýþ 
-			  
-			  uyarlanma 
+	 
+	 uyarlanma 
 uyarlanmak 
 uyarlayabilme 
 uyarlayabilmek 
@@ -69864,8 +69824,8 @@ uzaylý
 uzaylýlýk, -ðý 
 uzay pilotu 
 uzay savaþý 
-			  
-			  uzay sondasý 
+	 
+	 uzay sondasý 
 uzay taþý 
 uzay uçuþu 
 uzay üssü 
@@ -70174,8 +70134,8 @@ uzviyet
 üremsel 
 üretebilme 
 üretebilmek 
-			  
-			  üreteç, -ci 
+	 
+	 üreteç, -ci 
 üretici 
 üretici alan 
 üreticilik, -ði 
@@ -70484,9 +70444,7 @@ uzviyet
 üzüntülü 
 üzüntüsüz 
 üzüntüsüzlük, -ðü 
-		 
-<tr>
-			   v, V
+v, V
 V
 vaat, -di
 vaaz
@@ -70671,8 +70629,8 @@ vardakosta
 vardela
 vardýrabilme
 vardýrabilmek
-			  
-			  vardýrma
+	 
+	 vardýrma
 vardýrmak
 vardiya
 vardiyacý
@@ -70857,8 +70815,8 @@ vazifelendirmek
 vazifeli
 vazifelilik, -ði
 vazifesiz
-			  
-			  vazifesizlik, -ði
+	 
+	 vazifesizlik, -ði
 vazife þehidi
 vazifeþinas
 vazifeþinaslýk, -ðý
@@ -71043,8 +71001,8 @@ vernikli
 verniksiz
 verniye
 veronika
-			  
-			  versiyon
+	 
+	 versiyon
 vertigo
 veryansýn
 vesaik
@@ -71229,8 +71187,8 @@ viþneçürüðü
 viþne hoþafý
 viþne kompostosu
 viþneli ekmek, -ði
-			  
-			  viþnelik, -ði
+	 
+	 viþnelik, -ði
 viþne reçeli
 viþne suyu
 viþne þerbeti
@@ -71412,9 +71370,7 @@ vürut, -du
 vüsat, -ti
 vüzera
 V yaka
-		 
-<tr>
-			   y, Y
+y, Y
 Y
 ya
 yaba
@@ -72192,8 +72148,8 @@ yansýtýþ
 yansýtma
 yansýtmak
 yansýyabilme
-			  
-			  yansýyabilmek
+	 
+	 yansýyabilmek
 yansýyýþ
 yansýz
 yansýzlaþtýrma
@@ -72971,8 +72927,8 @@ yatýrýlma
 yatýrýlmak
 yatýrým
 yatýrým bankasý
-			  
-			  yatýrýmcý
+	 
+	 yatýrýmcý
 yatýrýmcýlýk, -ðý
 yatýrým fonu
 yatýrýþ
@@ -73750,8 +73706,8 @@ yer kabuðu
 yer katý
 Yerköy
 yerküre
-			  
-			  yerleþebilme
+	 
+	 yerleþebilme
 yerleþebilmek
 yerleþik
 yerleþiklik, -ði
@@ -74529,8 +74485,8 @@ yontulmak
 yonulma
 yonulmak
 yorabilme
-			  
-			  yorabilmek
+	 
+	 yorabilmek
 yordam
 yordama
 yordamak
@@ -75304,9 +75260,7 @@ yüzyýl
 yüzyýllarca
 yüzyýllýk
 yüz yüze
-		 
-<tr>
-			   z, Z
+z, Z
 zaaf
 zabýt, -ptý
 zabýta
@@ -75469,8 +75423,8 @@ zarfçý
 zarfçýlýk, -ðý
 zarf-fiil
 zarf-fiil grubu
-			  
-			  zarfýnda
+	 
+	 zarfýnda
 zarflama
 zarflamak
 zarflanma
@@ -75633,8 +75587,8 @@ zenginlenme
 zenginlenmek
 zenginleþme
 zenginleþmek
-			  
-			  zenginleþtirme
+	 
+	 zenginleþtirme
 zenginleþtirmek
 zenginlik, -ði
 zenne
@@ -75797,8 +75751,8 @@ zýplayabilme
 zýplayabilmek
 zýplayýþ
 zýppadak
-			  
-			  zýpzýp (bilye)
+	 
+	 zýpzýp (bilye)
 zýp zýp
 zýrcahil
 zýrcahillik, -ði
@@ -75961,8 +75915,8 @@ zirve
 zirve konferansý
 zirve toplantýsý
 zirzop
-			  
-			  zirzopça
+	 
+	 zirzopça
 zirzoplaþma
 zirzoplaþmak
 zirzopluk, -ðu
